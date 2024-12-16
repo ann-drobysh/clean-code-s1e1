@@ -18,8 +18,9 @@
 }
 
 @media (max-width:768px) {
-  .eisen-matrix { text-align: center;
-}
+  .eisen-matrix { 
+    text-align: center;
+  }
 }
 .todo-list {
   display: block;
